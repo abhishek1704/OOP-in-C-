@@ -1,3 +1,6 @@
+
+// class template along with operator overloading
+
 #include<iostream>
 using namespace std;
 
