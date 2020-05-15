@@ -44,7 +44,7 @@ public:
 		avghightemp=avghightemp+hightemp;
 		l++;		
 	} 
-	static void averagedisp()
+	static void averagedisp() // A static method to calculate the average parameters for a month using static variables
 	{
 		avgrain=(avgrain/l);
 		avgsnow=(avgsnow/l);
