@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// Use of pure virtual function (runtime polymorphism)
 class shape
 {
 	protected:
